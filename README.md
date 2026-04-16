@@ -9,6 +9,7 @@ This repository contains all the projects completed as part of Virtusa training.
 ###  1. Library Management System (Java)
 
 A console-based system to manage books, users, and issue/return operations.
+
 link->  https://github.com/rayyan555/Virtusa_Library-Management-System
 
 ---
@@ -16,6 +17,7 @@ link->  https://github.com/rayyan555/Virtusa_Library-Management-System
 ###  2. Smart Expense Tracker (Python + Streamlit)
 
 Tracks expenses, budgets, and provides interactive dashboards.
+
 link->  https://github.com/rayyan555/Virtusa_Smart-Expense-Tracker
 
 ---
@@ -23,12 +25,14 @@ link->  https://github.com/rayyan555/Virtusa_Smart-Expense-Tracker
 ###  3. Online Retail Sales Analysis (SQL)
 
 Analyzes sales data to extract insights like revenue trends and top products.
+
 link-> https://github.com/rayyan555/Virtusa_Online-Retail-Sales-Analysis-Database
 
 ---
 ###  4. Password Validator (Java)
 
 Validates passwords based on security rules like length, uppercase, and digits.
+
 link-> https://github.com/rayyan555/Virtusa_PasswordValidator
 
 ---
@@ -36,6 +40,7 @@ link-> https://github.com/rayyan555/Virtusa_PasswordValidator
 ###  5. Fare Calculator  (Python)
 
 Calculates ride fares based on distance, vehicle type, and surge pricing.
+
 link->  https://github.com/rayyan555/Virtusa_FareCalculator-Python-
 
 ---
@@ -43,6 +48,7 @@ link->  https://github.com/rayyan555/Virtusa_FareCalculator-Python-
 ###  6. Digital Library Audit System (SQL)
 
  Tracks book loans, overdue returns, and user activity.
+ 
  link->  https://github.com/rayyan555/Virtusa_The-Digital-Library-Audit-SQL-
  
 ---
